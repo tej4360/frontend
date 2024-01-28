@@ -3,3 +3,6 @@
 # Declare variables to be passed into your templates.
 
 replicaCount: 1
+component: frontend
+version: 2.0
+containerport: 80
