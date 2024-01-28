@@ -4,7 +4,8 @@
 
 replicaCount: 1
 component: frontend
-version: 2.0
+version1: 2
+version2: 0
 containerport: 80
 svcport: 80
 target: 80
