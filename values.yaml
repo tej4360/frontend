@@ -4,7 +4,7 @@
 
 replicaCount: 1
 component: frontend
-image: frontend:2.1
+image: teja4360/frontend:2.1
 containerport: 80
 svcport: 80
 target: 80
